@@ -1,24 +1,79 @@
-<h1 align="center">Wassup, its Shakir</h1>
-<h3 align="center">The World is Yours</h3>
-
-<p align="left"> <a href="https://twitter.com/unclesh4k" target="blank"><img src="https://img.shields.io/twitter/follow/unclesh4k?logo=twitter&style=for-the-badge" alt="unclesh4k" /></a> </p>
-
-- 🌱 I’m currently learning **at the University of Pretoria**
-
-- 👨‍💻 All of my projects are available at [https://github.com/UncleShak](https://github.com/UncleShak)
-
-- 📫 How to reach me **shakir.alex80@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/unclesh4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unclesh4k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shakir-alexander-70a977273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shakir-alexander-70a977273" height="30" width="40" /></a>
-<a href="https://instagram.com/shakir_alexander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakir_alexander" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/uncleshak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/uncleshak/" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Shakir Alexander Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
+<p align="center">
+  🎓 CS Student @ University of Pretoria | 💡 Future App Dev | 📹 YouTuber-in-the-making
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uncleshak&show_icons=true&locale=en" alt="uncleshak" /></p>
+<p align="center">
+  <a href="https://github.com/shakir-alexander"><img src="https://img.shields.io/github/followers/shakir-alexander?label=Follow&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shakir-alexander&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Working on-Skills & Consistency-yellow" />
+</p>
 
+---
+
+## 🧠 About Me
+
+I'm Shak — a first-year Computer Science student trying to make the most of every keystroke.  
+Right now, I'm focused on building strong fundamentals in programming, algorithms, and problem-solving.
+
+- 🧪 Learning through university projects (mostly in C++)
+- 🧠 Exploring ideas for a **habit-tracking app** I plan to build
+- 🎥 Planning a **YouTube channel** to share my journey (not launched yet)
+- 🌱 Growing my skills in React, Python, and C++
+
+> I'm not there yet, but I'm working towards it every day.
+
+---
+
+## ⚙️ Tech I Use & Learn
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📚 Academic Projects
+
+### 🧩 COS132: C++ Projects
+- Built small systems to understand memory, pointers, and modular programming
+- Learned separation of concerns using `.cpp` and `.h` files
+- Simulated basic OS functionality in coursework
+
+---
+
+## 🚧 Projects I Plan to Start
+
+- ✅ A **habit-tracking app** with logging, streaks, and (eventually) social features
+- 🎬 A **YouTube channel** to document my learning, builds, and reflections
+
+If you're into learning in public, minimalist productivity tools, or clean code — let’s connect.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakir-alexander&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakir-alexander&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💬 GitHub Discussions: [@shakir-alexander](https://github.com/shakir-alexander)
+- 📺 YouTube (coming soon)
+- 📧 Reach out via future portfolio (stay tuned!)
+
+---
+
+> 🌱 Still planting seeds. Big things coming.
