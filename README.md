@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Shakir Alexander Banner" width="100%" />
+  <img src="banner.gif" alt="Shakir Alexander Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
