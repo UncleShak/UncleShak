@@ -1,5 +1,5 @@
 <!-- Banner -->
-![image alt](https://github.com/UncleShak/UncleShak/blob/b896ac6e696bd69d0b391b9689e5d2610575ea8f/download.jpg)
+![image alt](https://github.com/UncleShak/UncleShak/blob/7c782a2d7b5a3c71520fc3d5245826b6ba57e30a/Spiderman_%20across%20the%20spiderverse%20header.jpg)
 <h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
 <p align="center">
   🎓 CS Student @ University of Pretoria | 💡 Future App Dev | 📹 YouTuber-in-the-making
