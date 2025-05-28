@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakir-alexander"><img src="https://img.shields.io/github/followers/shakir-alexander?label=Follow&style=social" /></a>
+  <a href="https://github.com/shakir-alexander"><img src="https://img.shields.io/github/followers/UncleShak?label=Follow&style=social" /></a>
   <img src="https://komarev.com/ghpvc/?username=shakir-alexander&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Working on-Skills & Consistency-yellow" />
 </p>
