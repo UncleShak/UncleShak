@@ -1,5 +1,5 @@
 <!-- Banner -->
-![image alt]([https://github.com/UncleShak/UncleShak/blob/6170baac9955a2fa5c2bccebbd85806562ee26d6/Banner.gif](https://github.com/UncleShak/UncleShak/blob/38b6618b1ff49d83b8156509f3e41594a25fa136/download.jpg))
+![image alt](https://github.com/UncleShak/UncleShak/blob/b896ac6e696bd69d0b391b9689e5d2610575ea8f/download.jpg)
 <h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
 <p align="center">
   🎓 CS Student @ University of Pretoria | 💡 Future App Dev | 📹 YouTuber-in-the-making
