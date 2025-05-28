@@ -58,7 +58,7 @@ If you're into learning in public, minimalist productivity tools, or clean code 
 
 ## 🤝 Let's Connect
 
-- 💬 GitHub Discussions: [@shakir-alexander](https://github.com/shakir-alexander)
+- 💬 GitHub Discussions: [@shakir-alexander](https://github.com/UncleShak)
 - 📺 YouTube (coming soon)
 - 📧 Reach out via future portfolio (stay tuned!)
 
