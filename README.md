@@ -1,8 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="banner.gif" alt="Shakir Alexander Banner" width="100%" />
-</p>
-
+![image alt](https://github.com/UncleShak/UncleShak/blob/6170baac9955a2fa5c2bccebbd85806562ee26d6/Banner.gif)
 <h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
 <p align="center">
   🎓 CS Student @ University of Pretoria | 💡 Future App Dev | 📹 YouTuber-in-the-making
