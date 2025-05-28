@@ -67,4 +67,4 @@ If you're into learning in public, minimalist productivity tools, or clean code 
 
 ---
 
-> 🌱 Still planting seeds. Big things coming.
+> 🌎 The world is yourz.
