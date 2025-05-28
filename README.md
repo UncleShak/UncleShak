@@ -59,15 +59,6 @@ If you're into learning in public, minimalist productivity tools, or clean code 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakir-alexander&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakir-alexander&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 💬 GitHub Discussions: [@shakir-alexander](https://github.com/shakir-alexander)
