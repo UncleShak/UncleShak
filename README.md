@@ -1,64 +1,35 @@
-<!-- Banner -->
-![image alt](https://github.com/UncleShak/UncleShak/blob/7c782a2d7b5a3c71520fc3d5245826b6ba57e30a/Spiderman_%20across%20the%20spiderverse%20header.jpg)
-<h1 align="center">Hi there 👋, I'm Shakir Alexander</h1>
-<p align="center">
-  🎓 CS Student @ University of Pretoria | 💡 Future App Dev | 📹 YouTuber-in-the-making
-</p>
+# Hey, I'm Shakir
 
-<p align="center">
-  <a href="https://github.com/shakir-alexander"><img src="https://img.shields.io/github/followers/UncleShak?label=Follow&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shakir-alexander&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Working on-Skills & Consistency-yellow" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=First+Year+CS+Student;C%2B%2B+%26+Python+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🧠 About Me
+## 🎓 About Me
 
-I'm Shak — a first-year Computer Science student trying to make the most of every keystroke.  
-Right now, I'm focused on building strong fundamentals in programming, algorithms, and problem-solving.
+Hey im a first year student currently, dont have much experience but im trying. 
 
-- 🧪 Learning through university projects (mostly in C++)
-- 🧠 Exploring ideas for a **habit-tracking app** I plan to build
-- 🎥 Planning a **YouTube channel** to share my journey (not launched yet)
-- 🌱 Growing my skills in React, Python, and C++
+## 🛠️ Technologies
 
-> I'm not there yet, but I'm working towards it every day.
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-## ⚙️ Tech I Use & Learn
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue" alt="GitHub Stats" />
+</div>
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## 🌱 Currently Learning
 
----
-
-## 📚 Academic Projects
-
-### 🧩 COS132: C++ Projects
-- Built small systems to understand memory, pointers, and modular programming
-- Learned separation of concerns using `.cpp` and `.h` files
-- Simulated basic OS functionality in coursework
+- Data structures and algorithms
+- Object-oriented programming
+- Problem solving techniques
 
 ---
 
-## 🚧 Projects I Plan to Start
-
-- ✅ A **habit-tracking app** with logging, streaks, and (eventually) social features
-- 🎬 A **YouTube channel** to document my learning, builds, and reflections
-
-If you're into learning in public, minimalist productivity tools, or clean code — let’s connect.
-
----
-
-## 🤝 Let's Connect
-
-- 💬 GitHub Discussions: [@shakir-alexander](https://github.com/UncleShak)
-- 📺 YouTube (coming soon)
-- 📧 Reach out via future portfolio (stay tuned!)
-
----
-
-> 🌎 The world is yourz.
+<div align="center">
+  <sub>the world is yours</sub>
+</div>
