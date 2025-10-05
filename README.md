@@ -6,7 +6,7 @@
 ##              About Me
 
 - Student at the University of Pretoria
-- Studying Computer Sience
+- Studying Computer Science
 - Avid Tinkerer
 - Everything for the love of the game.
 
