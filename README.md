@@ -27,6 +27,7 @@
 - Object-oriented programming
 - Problem solving techniques
 - Home Labbing
+- Linux
 
 ---
 
